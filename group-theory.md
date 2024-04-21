@@ -1,3 +1,4 @@
+# Group Theory
 
 A group is a nonempty set \( G \) together with a law of composition
 \( (a, b) \mapsto ab : G \times G \rightarrow G \) satisfying the following four axioms:
